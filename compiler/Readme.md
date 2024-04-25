@@ -1,0 +1,3 @@
+#in this project i used Antlr4 along with asm in order to make a compiler to take text files with a simple program then run it though my kcc class in order to then run though the compiler and run. 
+
+the compiler isnt fully working as after alot of issues i faced i ran out of time but the general idea would to be to run the kcc java file then from there you can like in assignment 3 a program1 will be generated then u would be able to run the program1 in order to recive the output. most the methods from asm are completed while the reader and hashmap from assignment 4 where not fully implemented yet.
